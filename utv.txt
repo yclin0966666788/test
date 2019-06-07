@@ -9,6 +9,6 @@ group,Videos
 avi,Youtube1,https://www.youtube.com/watch?v=NSxxrhnhjf4
 avi,Youtube,https://www.youtube.com/watch?v=LXb3EKWsInQ
 avi,Youtube2,https://www.youtube.com/watch?v=-TdLTe_yckY
-avi,Youtube3,https://www.youtube.com/watch?v=dxpWqjvEKaM
+mpg,Youtube3,https://www.youtube.com/watch?v=dxpWqjvEKaM
 avi,MKV,http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
 avi,MP4,http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
