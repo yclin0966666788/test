@@ -9,6 +9,12 @@ group,Videos
 avi,Youtube1,https://www.youtube.com/watch?v=NSxxrhnhjf4
 avi,Youtube,https://www.youtube.com/watch?v=LXb3EKWsInQ
 avi,Youtube2,https://www.youtube.com/watch?v=-TdLTe_yckY
-avi,Real 4K OLED,https://www.youtube.com/watch?v=9eT9PEHayVk
+avi,Real 4K 60fps OLED Demo,https://www.youtube.com/watch?v=9eT9PEHayVk
+avi,Transients 4K,https://www.youtube.com/watch?v=nBYZpsbu9ds
+avi,They Don’t Care About Us,https://www.youtube.com/watch?
+v=QNJL6nfu__Q
+avi,Heal The World,https://www.youtube.com/watch?
+v=BWf-eARnf6U
+
 avi,MKV,http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
 avi,MP4,http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
