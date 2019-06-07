@@ -6,6 +6,6 @@ ebc,EBC,https://youtu.be/dxpWqjvEKaM
 ext,Zerouno TV Music,http://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8
 
 group,Videos
-avi,Youtube,https://www.youtube.com/watch?v=LXb3EKWsInQ
+avi,Youtube,https://youtu.be/dxpWqjvEKaM
 avi,MKV,http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
 avi,MP4,http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
