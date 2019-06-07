@@ -2,7 +2,7 @@ group,Streams
 russia-today,Russia Today,https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
 rbk,RBK,http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 brodilo,Brodilo TV,http://brodilo.tv/channel.php
-ebc,EBC,https://youtu.be/dxpWqjvEKaM
+ebc24,EBC24,https://youtu.be/dxpWqjvEKaM
 ext,Zerouno TV Music,http://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8
 
 group,Videos
