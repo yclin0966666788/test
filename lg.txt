@@ -6,5 +6,6 @@ nexttv,Next TV,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3
 ext,Zerouno TV Music,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
 group,Videos
 avi,Youtube,https://youtu.be/dxpWqjvEKaM
+avi,Youtube2,https://youtu.be/-TdLTe_yckY
 avi,MKV,http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
 avi,MP4,http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
