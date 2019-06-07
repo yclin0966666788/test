@@ -3,7 +3,7 @@ russia-today,Russia Today,https://rt-news.secure.footprint.net/1103-inadv-qidx-1
 rbk,RBK,http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 brodilo,Brodilo TV,http://brodilo.tv/channel.php
 nexttv,Next TV,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-ebc,EBC News,https://www.youtube.com/watch?v=dxpWqjvEKaM
+ebc,EBC News,https://raw.githubusercontent.com/yclin0966666788/test/master/chunklist.m3u8
 ext,Zerouno TV Music,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
 group,Videos
 avi,Youtube1,https://www.youtube.com/watch?v=NSxxrhnhjf4
