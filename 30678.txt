@@ -11,8 +11,6 @@ avi,Youtube,https://www.youtube.com/watch?v=LXb3EKWsInQ
 avi,Youtube2,https://www.youtube.com/watch?v=-TdLTe_yckY
 avi,Real 4K 60fps OLED Demo,https://www.youtube.com/watch?v=9eT9PEHayVk
 avi,Transients 4K,https://www.youtube.com/watch?v=nBYZpsbu9ds
-avi,MJ,https://www.youtube.com/watch?v=QNJL6nfu__Q
-avi,MJ,https://www.youtube.com/watch?v=BWf-eARnf6U
-avi,Dubai,https://www.youtube.com/watch?v=Ufg-tpGwFcM
+avi,Youtube4,https://www.youtube.com/watch?v=Ufg-tpGwFcM
 avi,MKV,http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
 avi,MP4,http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
