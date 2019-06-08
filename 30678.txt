@@ -6,6 +6,8 @@ nexttv,Next TV,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3
 ebc,EBC News,https://raw.githubusercontent.com/yclin0966666788/test/master/chunklist.m3u8
 test,Test,https://raw.githubusercontent.com/yclin0966666788/test/master/chunklist3.m3u8
 ext,Zerouno TV Music,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+nhk,NHK綜合台,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+ftv,FTV民視新聞，https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 group,Videos
 avi,Youtube1,https://www.youtube.com/watch?v=NSxxrhnhjf4
 avi,Youtube,https://www.youtube.com/watch?v=LXb3EKWsInQ
