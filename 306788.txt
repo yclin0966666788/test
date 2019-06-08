@@ -7,7 +7,7 @@ ebc,EBC News,https://raw.githubusercontent.com/yclin0966666788/test/master/chunk
 test,Test,https://raw.githubusercontent.com/yclin0966666788/test/master/chunklist3.m3u8
 ext,Zerouno TV Music,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
 nhk,NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-ftv,民視新聞,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+ftv,民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 group,Videos
 avi,Youtube1,https://www.youtube.com/watch?v=NSxxrhnhjf4
 avi,Youtube,https://www.youtube.com/watch?v=LXb3EKWsInQ
@@ -17,6 +17,6 @@ avi,Transients 4K,https://www.youtube.com/watch?v=nBYZpsbu9ds
 avi,Youtube4,https://www.youtube.com/watch?v=Ufg-tpGwFcM
 avi,Youtube5,https://www.youtube.com/watch?v=yLKob08x2-A
 avi,Youtube6,https://www.youtube.com/watch?v=dCd8k8OJ6_Q
-avi,Youtube6,https://www.youtube.com/watch?v=LSVe9oe-ohE
+avi,Youtube6,https://www.youtube.com/watch?v=pfxQn8N3H-Q
 avi,MKV,http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
 avi,MP4,http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
