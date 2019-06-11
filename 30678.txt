@@ -8,7 +8,7 @@ live,Live,https://raw.githubusercontent.com/yclin0966666788/test/master/03678.m3
 ext,Zerouno TV Music,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
 nhk,NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 ftv,民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-tptv,公視,https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/_isseGKrquc.233/itag/0/playlist_type/DVR/ei/Mhv8XODPAozogAOa-ofwCw/hfr/1/maudio/1/gcr/tw/go/1/keepalive/yes/dover/11/ip/114.25.141.36/ipbits/0/expire/1560047506/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/E5DA9C0D84FACEF6689B2A0336E356049409680B.4A893A3D4165FA033264DF40310330A830E0DB76/key/yt8/file/index.m3u8
+
 group,Videos
 avi,Youtube1,https://www.youtube.com/watch?v=NSxxrhnhjf4
 avi,Youtube,https://www.youtube.com/watch?v=LXb3EKWsInQ
