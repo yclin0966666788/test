@@ -3,7 +3,7 @@ russia-today,Russia Today,https://rt-news.secure.footprint.net/1103-inadv-qidx-1
 rbk,RBK,http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 brodilo,Brodilo TV,http://brodilo.tv/channel.php
 nexttv,Next TV,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-nexttv,Next TV2http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8
+nexttv,Next TV2,http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8
 ebc,EBC News,https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/dxpWqjvEKaM.1/itag/0/playlist_type/DVR/ei/_wz8XMCzC5fi4gKcxr-YCA/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/go/1/keepalive/yes/dover/11/ip/118.161.187.177/ipbits/0/expire/1560043871/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cgo/signature/A113B6CB2A7FD30575CA1BB456121E05C94DDCE5.3E35F1DEDE035A044DEC182C938702C54DF4B0FF/key/yt8/file/index.m3u8
 live,Live,https://raw.githubusercontent.com/yclin0966666788/test/master/03678.m3u8
 ext,Zerouno TV Music,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
